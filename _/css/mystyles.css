@@ -1,0 +1,55 @@
+#home{
+     text-align:center;
+	 background:url('../../images/bgh.jpg');
+	 }
+#shop{
+     text-align:center;
+   background:url('../../images/commerce_rsz.jpg') ;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+   }
+   #cart{
+     text-align:center;
+   background:url('../../images/commerce_rsz.jpg') ;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+   }
+
+     
+
+	 ul.mixed {
+  list-style-type: none;
+}
+ul.mixed li:before {
+ content: "\2022";
+ padding-right: 0.5em;
+}
+li.red:before {
+  color: red;
+}
+li.green:before {
+  color: green;
+  }
+li.blue:before {
+color: blue;
+}
+li.magenta:before {
+  color: magenta;
+  }
+  li.green:before {
+color: green;
+}
+li.orange:before {
+color: orange;
+}
+  
+#Electronics{
+ .ui-btn {text-align: left}
+}
+
+#videolist img {
+	display: block;
+	width: 90%;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>CHECKOUT FORM</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link rel="stylesheet" href="_form/css/jquery.mobile1.css" />
+	<script src="_form/js/jquery.js"></script>
+	<script src="_form/js/dialog.js"></script>
+	<script src="_form/js/jquery.mobile1.js"></script>
+
+	<script src="_form/js/myscript.js"></script>
+	<link rel="stylesheet" href="_form/css/mystyles.css" />
+
+</head>
+<div data-role="page">
+  <div data-role="main" class="ui-content">
+    <form method="post" action="demoform.asp">
+      <label for="fname" class="ui-hidden-accesible">First name:</label>
+      <input type="text" name="fname" id="fname" placeholder="First name....." data-clear-btn="true">
+	  <label for="lname" class="ui-hidden-accesible">Last name:</label>
+      <input type="text" name="lname" id="lname" placeholder="Last Name....." data-clear-btn="true">
+	  <label for="regno" class="ui-hidden-accesible">Register number:</label>
+      <input type="text" name="regno" id="regno" placeholder="Register Number....." data-clear-btn="true">
+	  <label for="branch" class="ui-hidden-accesible">Branch:</label>
+      <input type="text" name="branch" id="branch" placeholder="Branch....." data-clear-btn="true">
+	  <label for="branch" class="ui-hidden-accesible">Mobile Number:</label>
+      <input type="text" name="branch" id="branch" placeholder="Number....." data-clear-btn="true">
+	  <label for="content">Creativity & Innovation:</label>
+	  <input type="range" name="content" id="content" value="50" min="0" max="100" data-popup-enabled="true"><br/>
+	   <label for="communication">Presentation:</label>
+	  <input type="range" name="communication" id="communication" value="50" min="0" max="100" data-popup-enabled="true"><br/>
+	  <label for="switch">Is this application useful?</label>
+	  <input type="checkbox" data-role="flipswitch" name="switch" id="switch" data-on-text="yes" data-off-text="no"><br/>
+	  <label for="switch">Do you feel that this app would be benefical for the students?</label>
+	  <input type="checkbox" data-role="flipswitch" name="switch" id="switch" data-on-text="true" data-off-text="false"><br/>
+	  <label for="switch">Did you find the application to be user-friendly?</label>
+	  <input type="checkbox" data-role="flipswitch" name="switch" id="switch" data-on-text="yes" data-off-text="no"><br/>
+	  <!--input type="submit"  value="submit"-->
+	  <button type="button" >Submit</button>
+ 
+    </form>
+  </div>
+</div>
+</html>

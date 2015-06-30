@@ -1,0 +1,27 @@
+INSTRUCTIONS :
+
+ STEPS :
+1.Open the suvamhome.html in CHROME Browser ..
+( we recommed you to install google chrome in your laptop to view this web-app's complete features.}
+
+2.DO NOT CLICK any other HTML files...
+
+3.ON clicking suvamhome.html  you can view both the back end and front-end of the app by 
+clicking further buttons...
+
+4.We Hope you get the desired UI of this app...
+
+5. We have hosted this web-app in the internet ...
+and the link is "www.appec.webatu.com/suvamhome.html"
+
+6.You can view this too in Google Chrome.
+
+
+CAUTION:
+    Viewing this app in any other browser IS SERIOUSLY NOT RECOMMENDED.
+    The Browsers like IE,Firefox.. do not support the recent User-Interface that this app CONTAIN..
+
+so we recommend you to view this app in GOOGLE CHROME ONLY....
+
+
+THANK YOU.  
